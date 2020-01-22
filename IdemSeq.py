@@ -13,9 +13,9 @@
 #
 # >>> from IdemSeq import idemseq
 # >>> seq = 'ATGATCGATCGATCGATCTAG'
-# >>> idemseqIseq)
+# >>> idemseq(seq)
 # # Output: 'ATGATCGATAGGAGTATATGA'
-# >>> idemseqIseq)
+# >>> idemseq(seq)
 # # Output: 'ATGATAGATCGCTCCATATAA'
 
 # aa  --> Amino acids
